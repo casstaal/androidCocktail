@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CocktailApplication</string>
+    <string name="msg_cocktail_successfully_added">Cocktail successfully added</string>
+    <string name="msg_add_cocktail_cancelled">Action cancelled by user</string>
+</resources>
